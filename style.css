@@ -1,0 +1,22 @@
+body{
+	/*
+	background: #123A7F;
+	background: -webkit-linear-gradient(-45deg, #3868BD, #123A7F);
+	background: linear-gradient(-45deg, #3868BD, #123A7F);
+	margin: 0;
+	padding: 0;
+	*/	
+	height: 1000;
+	
+}
+.container{
+	width: 400px;
+	position: absolute;
+	top: 65px;
+	left: 630px;
+}
+.timeContainer{
+	width: 600px;
+	top: 510px;
+	left: 25px;
+}
